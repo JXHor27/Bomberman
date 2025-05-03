@@ -1,4 +1,4 @@
-# WIA1002 Data Structure Group Assignment 2023/2024 
+# WIA1002 Data Structure Group Assignment
 ## Bomberman GUI with Tic-Tac-Toe Challenge
 This project is developed for the Data Structure course. In this project, we have implemented algorithms such as breadth-first search and depth-first search to find all possible paths and the shortest path in the maze. Stack and queue data structures have been used extensively during the development.
 
